@@ -1,0 +1,10 @@
+# Campus Notes CODEOWNERS
+# Keep code reviews consistent between the pair.
+*                 @Vedant1922 @Yashop965
+
+# Repo configuration is owned by both pair members
+.github/          @Vedant1922 @Yashop965
+
+# Documentation is owned by Yash (Q2/Q3 assignment work)
+README.md         @Yashop965
+CONTRIBUTING.md   @Yashop965
